@@ -5,10 +5,14 @@
 # META {
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "f94b6451-3cf6-42ce-8917-321edd6ca1ae",
+# META       "default_lakehouse": "f6a41853-6572-4b0f-bfed-8a62fbc0f706",
 # META       "default_lakehouse_name": "sales",
-# META       "default_lakehouse_workspace_id": "2cf94961-7ddc-4f43-832c-4de42dc29f0c",
-# META       "known_lakehouses": []
+# META       "default_lakehouse_workspace_id": "bbb13672-ebe1-496c-91a3-64141bc36d8c",
+# META       "known_lakehouses": [
+# META         {
+# META           "id": "f6a41853-6572-4b0f-bfed-8a62fbc0f706"
+# META         }
+# META       ]
 # META     }
 # META   }
 # META }
